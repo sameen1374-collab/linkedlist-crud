@@ -107,4 +107,3 @@ npx vercel --prod
 
 ---
 
-*Engineered with Google Antigravity.*
